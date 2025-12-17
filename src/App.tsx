@@ -81,7 +81,7 @@ const TYPED_LINES = [
   "...",
   "> today is the day i surprise you",
   "...",
-  "> so i made you this computer program",
+  "> so i made you this computer program :3",
   "...",
   "٩(◕‿◕)۶ ٩(◕‿◕)۶ ٩(◕‿◕)۶"
 ];
